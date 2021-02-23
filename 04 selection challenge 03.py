@@ -1,6 +1,6 @@
 number = int(input("enter a number between 10 and 20"))
 
-if (number > 10) or (number< 20):
+if (number > 10) and (number< 20):
     print ("thank you")
 
 
